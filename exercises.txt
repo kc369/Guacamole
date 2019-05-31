@@ -1,3 +1,5 @@
 this is for exercise #1
 
 Edits for Exercise #2
+
+these are the local edits for exercise #3
