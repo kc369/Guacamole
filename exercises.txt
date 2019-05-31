@@ -2,4 +2,4 @@ this is for exercise #1
 
 Edits for Exercise #2
 
-these are the local edits for exercise #3
+consolidated edits for Exercise #3 - fix
